@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: de.fahstg1
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, java, java-application, junit, logback, maven, neo4j-bolt, netty-server, readme, shade, yaml]
